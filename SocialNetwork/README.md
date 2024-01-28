@@ -9,6 +9,10 @@ This repository hosts a basic social network application similar in functionalit
 - Exploring followers and followed users.
 - Tweet and user search functionality based on keywords.
 
+## **Instructions**
+Execute main.py with a .db user database file input redirection using a CLI
+- Ex: python3 main.py <X.db
+
 ## **Technologies**
 - **Python**: Main programming language for application logic.
 - **SQLite3**: Database management.
