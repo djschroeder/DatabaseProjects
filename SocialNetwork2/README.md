@@ -1,4 +1,4 @@
-# **CMPUT 291 Mini-Project 1: Document Store and Data Processing System**
+# **Social Media Network 2**
 
 ## **Overview**
 This CMPUT 291 Mini-Project 1 is a simple social media network application designed to demonstrate the practical use and capabilities of MongoDB. The project highlights MongoDB's strengths in handling dynamic, schema-less data structures, making it ideal for a social media context. It offers a hands-on experience in implementing database operations like creating, reading, updating, and deleting (CRUD) in a social media environment. This application is a perfect blend of modern database technology with social networking features, aimed at providing a foundational understanding of NoSQL database systems.
