@@ -19,7 +19,7 @@ This repository hosts a basic social network application similar in functionalit
 - The project demonstrates fundamental database operations and user interface design.
 
 ## **Development and Collaboration**
-Developed collaboratively using GitHub and Discord. Individual contributions are specified in the *project documentation*.
+Developed collaboratively using GitHub and Discord. Individual contributions are specified in the [design document](https://github.com/djschroeder/DatabaseProjects/blob/main/SocialNetwork/CMPUT%20291%20Mini-Project%201%20Design%20Doc.pdf)
 
 ## **Note**
 This project is for educational purposes, part of the CMPUT 291 course at the University of Alberta.
