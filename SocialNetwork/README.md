@@ -1,4 +1,4 @@
-# **Social Network Application
+# **Social Network Application**
 
 ## **Overview**
 This repository hosts a basic social network application similar in functionality to early Twitter. It allows users to interact through tweets and explore user connections in a rudimentary way.
