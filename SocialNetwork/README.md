@@ -1,6 +1,25 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1ysbDgXa)
-# CMPUT 291 Project 1 - Fall 2023  
-Group member names and ccids (3-4 members)  
-  ihmorris, Ian Morrison  
-  ankriti, Ankriti Sharma 
-  djschroe, David Schroeder
+# **Social Network Application
+
+## **Overview**
+This repository hosts a basic social network application similar in functionality to early Twitter. It allows users to interact through tweets and explore user connections in a rudimentary way.
+
+## **Features**
+- User authentication (login and registration).
+- Viewing, composing, searching, replying to, and retweeting tweets.
+- Exploring followers and followed users.
+- Tweet and user search functionality based on keywords.
+
+## **Technologies**
+- **Python**: Main programming language for application logic.
+- **SQLite3**: Database management.
+
+## **Functionality**
+- The application provides a menu-driven interface for user interaction.
+- Features include tweet management, user search, and follower insights.
+- The project demonstrates fundamental database operations and user interface design.
+
+## **Development and Collaboration**
+Developed collaboratively using GitHub and Discord. Individual contributions are specified in the *project documentation*.
+
+## **Note**
+This project is for educational purposes, part of the CMPUT 291 course at the University of Alberta.
