@@ -1,11 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/WaxloQed)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13002340&assignment_repo_type=AssignmentRepo)
-# CMPUT 291 Project 2 - Fall 2023  
-Group member names and ccids (3-4 members)  
-  ihmorris, Ian Morrison  
-  pbnguyen, Bao Nguyen  
-  omelchuk, Logan Omelchuk 
-  djschroe, David Schroeder
+# **CMPUT 291 Mini-Project 1: Document Store and Data Processing System**
 
+## **Overview**
+This CMPUT 291 Mini-Project 1 is a simple social media network application designed to demonstrate the practical use and capabilities of MongoDB. The project highlights MongoDB's strengths in handling dynamic, schema-less data structures, making it ideal for a social media context. It offers a hands-on experience in implementing database operations like creating, reading, updating, and deleting (CRUD) in a social media environment. This application is a perfect blend of modern database technology with social networking features, aimed at providing a foundational understanding of NoSQL database systems.
 
-# Names of anyone you have collaborated with (as much as it is allowed within the course policy) or a line saying that you did not collaborate with anyone else.  
+## **Key Features**
+- **Data Loading**: Efficiently setting up MongoDB and importing JSON data.
+- **Data Operations**: Functionalities for searching, listing, and managing social media content.
+- **User Interface**: Easy-to-use command-line interface.
+- **MongoDB Integration**: Leveraging MongoDB for optimal data management.
+
+## **Technologies**
+- Python
+- MongoDB
+
+## **Team Members**
+- David Schroeder
+- Ian Morrison
+- Bao Nguyen
+- Logan Omelchuk
+
+## **Installation and Usage**
+Guidelines for installing MongoDB, setting up the environment, and running the application are contained in the [Project Report](https://github.com/djschroeder/DatabaseProjects/blob/main/SocialNetwork2/Project%20Report/Project%20Report.pdf)
+
+## **Testing and Performance**
+Comprehensive testing to ensure functionality and efficient performance analysis.
+
+## **Acknowledgements**
+This project is part of the CMPUT 291 course at the University of Alberta, focusing on practical MongoDB applications in social media.
